@@ -1,0 +1,18 @@
+<html>
+  <body>
+   <head>my documents</head>
+     <ol>
+     <li>laptop</li>
+      <li> computer </li>
+      <li> mobile phone</li>
+      <li> head phones <li>
+     </ol>
+      <h1>subjects</h1>
+     <ul>
+     <li> science</li>
+     <li>maths </li>
+      <li>social science </li>
+      <li>english </li>
+     </ul>
+  </body>
+</html>
